@@ -1,0 +1,78 @@
+
+.titulo{
+    text-align: center;
+}
+
+section .img{
+    float: left;
+    margin: 0 auto;
+    overflow: auto;
+    width: 200px;
+}
+section .img2{
+    margin: 0 auto;
+    width: 405px;
+}
+
+.caixa{
+    border: 1px solid black;
+    float: right;
+    margin: 10px 10px 0 0;
+    
+}
+
+.clear{
+    border: 1px solid black;
+    margin: 10px 10px 0 0;
+   
+}
+
+.clear{
+    border: 1px solid black;
+    margin: 10px 10px 0 0;
+
+}
+
+.clear p{
+    clear: both;
+}
+
+.img3{
+    height: 100px;
+    margin: auto;
+
+}
+
+main{
+    margin:auto;
+    max-width: 960px;
+}
+section{
+    border:1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: justify;
+    background-color: #fff;
+}
+    h1:hover{
+        background-color: blueviolet;
+        color: #000;
+    }
+    article{
+        float: left;
+        width: 660px;
+    }
+section h2{
+    border-bottom: 1px dashed #ffebcd;
+    margin: 0;
+}
+section img{
+    border: 1px solid blueviolet;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+    width: 150px;
+}
+.clear{
+    clear:both
+}
